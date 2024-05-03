@@ -61,6 +61,6 @@ Go to google.com and search wireshark. Download latest verison of wireshark and 
 
 
 </p>
-<p> Create a firewall in Microsoft Azure by going to Network security groups and select VM2. Select add and click ICMP under protocol and select deny under action. set the priority as you see fit and give a name then add the rule.
+<p> As you can onces the firewall is established the ping and wireshark traffic will start to timeout.
 </p>
 <br />
