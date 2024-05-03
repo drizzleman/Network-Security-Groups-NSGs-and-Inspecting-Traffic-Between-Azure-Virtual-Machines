@@ -64,3 +64,18 @@ Go to google.com and search wireshark. Download latest verison of wireshark and 
 <p> As you can onces the firewall is established the ping and wireshark traffic will start to timeout.
 </p>
 <br />
+<p>
+<p>
+<img width="950" alt="image" src="https://github.com/drizzleman/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines/assets/166667455/10ec82df-0fef-414f-9d62-162926a5d820">
+
+
+
+</p>
+<p> Next you can use SSH from VM1 to remote into VM2 using powershell and filter the traffic using wireshark.
+</p>
+<br />
+
+</p>
+
+</p>
+<br />
