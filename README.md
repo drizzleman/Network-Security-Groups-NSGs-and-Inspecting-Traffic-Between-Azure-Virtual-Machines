@@ -56,3 +56,11 @@ Go to google.com and search wireshark. Download latest verison of wireshark and 
 <p> Create a firewall in Microsoft Azure by going to Network security groups and select VM2. Select add and click ICMP under protocol and select deny under action. set the priority as you see fit and give a name then add the rule.
 </p>
 <br />
+<p>
+<img width="923" alt="image" src="https://github.com/drizzleman/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines/assets/166667455/9dcda147-38a3-4741-8ce7-e76564a103b9">
+
+
+</p>
+<p> Create a firewall in Microsoft Azure by going to Network security groups and select VM2. Select add and click ICMP under protocol and select deny under action. set the priority as you see fit and give a name then add the rule.
+</p>
+<br />
